@@ -10,13 +10,15 @@ Microsoft is creating a new movie studio but lacks knowledge on what types of mo
 4. Results: Following an evaluation of the studio's performance, it was recommended that a successful studio be consulted in order to establish a new one for Microsoft. The studio's performance was assessed based on several key metrics, including the quality of their production as evidenced by movie ratings, as well as the revenue and profits generated from their films. Implementing this approach would enable the company to produce high-quality movie content while also achieving significant revenue generation.
 
 Total World Wide Gross by Studio
- ![image](https://github.com/elsheikhz1/Project-1/assets/107605292/7968cf10-7634-4ca8-b395-f806b2f7cb8b
+ ![image](https://github.com/elsheikhz1/Project-1/assets/107605292/b4956264-0664-4d9b-a379-c7a13d12321d)
+
  
  Average rating by Studio
-![image](https://github.com/elsheikhz1/Project-1/assets/107605292/0e5f5106-4c7f-4e63-83ea-73d08a78698b)
+![image](https://github.com/elsheikhz1/Project-1/assets/107605292/a5f62682-1aa6-427a-b27a-7422579b5cd5)
+
 
 Total World Wide Gross by Studio
-![image](https://github.com/elsheikhz1/Project-1/assets/107605292/7ceadb2c-ee5c-4f34-8047-5901b549ffe0)
+![image](https://github.com/elsheikhz1/Project-1/assets/107605292/f391680c-af8a-455e-9f05-7ebd9903809d)
 
 5. Conclusions: Based on the analysis conducted, it was recommended that Buena Vista is the most suitable studio for Microsoft to consult. With the highest revenue and profit achieved, coupled with the second-highest average rating per movie of 6.9, Buena Vista is well positioned to provide valuable insights and expertise in producing high-quality movies that generate strong returns. The use of larger datasets and exploring trending genres could be a valuable addition to the analysis, helping to identify the types of movies that would align with Microsoft's goals and objectives.
 
