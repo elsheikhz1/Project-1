@@ -1,4 +1,6 @@
 # Project Title: Microsoft Movie Studio Data Analysis
+![image](https://github.com/elsheikhz1/Project-1/assets/107605292/745a0cc9-170e-4155-86ef-c53d1b7358cf)
+
 Microsoft is creating a new movie studio but lacks knowledge on what types of movies to produce. The goal of this project is to analyze box office trends using data from movie databases and ticket sales records to guide their decisions on movie genres, budget allocation, and marketing strategies. The project involves the following data science steps:
 
 1. Data Understanding: Four datasets were used from IMDb to analyze trends and factors that contribute to a movie's success or failure, including box office gross revenue, IMDb rating, production budget, and genre.
