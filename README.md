@@ -11,3 +11,7 @@ Microsoft is creating a new movie studio but lacks knowledge on what types of mo
 
 5. Conclusions: Based on the analysis conducted, it was recommended that Buena Vista is the most suitable studio for Microsoft to consult. With the highest revenue and profit achieved, coupled with the second-highest average rating per movie of 6.9, Buena Vista is well positioned to provide valuable insights and expertise in producing high-quality movies that generate strong returns. The use of larger datasets and exploring trending genres could be a valuable addition to the analysis, helping to identify the types of movies that would align with Microsoft's goals and objectives.
 
+Navigation of respitoruy
+
+![image](https://github.com/elsheikhz1/Project-1/assets/107605292/7968cf10-7634-4ca8-b395-f806b2f7cb8b)
+
